@@ -298,8 +298,8 @@ We can use the Tools menu to invoke running a batch script. Batch scripts are de
 * We also need to provide sample attribute file as described here: http://www.broadinstitute.org/software/igv/?q=SampleInformation
 
 Download the batch script and the attribute file for our dataset:
-* Batch script: [Run_batch_IGV_snapshots.txt](https://raw.githubusercontent.com/griffithlab/rnaseq_tutorial/master/scripts/Run_batch_IGV_snapshots.txt)
-* Attribute file: [Igv_HCC1143_attributes.txt](https://raw.githubusercontent.com/griffithlab/rnaseq_tutorial/master/scripts/Igv_HCC1143_attributes.txt)
+* Batch script: [Run_batch_IGV_snapshots.txt](https://raw.githubusercontent.com/cgpu/rnaseq_tutorial/master/scripts/Run_batch_IGV_snapshots.txt)
+* Attribute file: [Igv_HCC1143_attributes.txt](https://raw.githubusercontent.com/cgpu/rnaseq_tutorial/master/scripts/Igv_HCC1143_attributes.txt)
 
 Now run the file from the `Tools` menu:
 
@@ -312,7 +312,7 @@ Now run the file from the `Tools` menu:
 
 ## Contributors/acknowledgements
 
-This tutorial is forked from the wiki of [griffithlab/rnaseq_tutorial](https://github.com/griffithlab/rnaseq_tutorial)
+This tutorial is forked from the wiki of [cgpu/rnaseq_tutorial](https://github.com/cgpu/rnaseq_tutorial)
 
 The contributors are listed below:
 Malachi Griffith, Sorana Morrissy, Jim Robinson, Ben Ainscough, Jason Walker, Obi Griffith
