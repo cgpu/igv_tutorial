@@ -1,0 +1,4 @@
+# Contains the examples from this tutorial:
+# https://bioinformatics-core-shared-training.github.io/intro-to-IGV/
+
+s3://lifebit-featured-datasets/workshops/JAX/cruk-igv-intro-data/
