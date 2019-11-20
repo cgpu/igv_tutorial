@@ -1,9 +1,3 @@
-| [[Previous Section\|Alignment]] | [[This Section\|IGV-Tutorial]] | [[Next Section\|PostAlignment-Visualization]] |
-|:------------------------------:|:-----------------------------:|:--------------------------------------------:|
-| [[Alignment\|Alignment]]        | [[IGV\|IGV-Tutorial]] | [[Alignment Visualization\|PostAlignment-Visualization]]         |
-
----
-
 ## Table of contents
 1. [Introduction](IGV-Tutorial#introduction)
   1. [Description of the lab](IGV-Tutorial#description-of-the-lab)
@@ -317,10 +311,8 @@ Now run the file from the `Tools` menu:
 * A screenshot will be taken and saved to the screenshots directory specified
 
 ## Contributors/acknowledgements
+
+This tutorial is forked from the wiki of [griffithlab/rnaseq_tutorial](https://github.com/griffithlab/rnaseq_tutorial)
+
+The contributors are listed below:
 Malachi Griffith, Sorana Morrissy, Jim Robinson, Ben Ainscough, Jason Walker, Obi Griffith
-
----
-
-| [[Previous Section\|Alignment]] | [[This Section\|IGV-Tutorial]] | [[Next Section\|PostAlignment-Visualization]] |
-|:------------------------------:|:-----------------------------:|:--------------------------------------------:|
-| [[Alignment\|Alignment]]        | [[IGV\|IGV-Tutorial]] | [[Alignment Visualization\|PostAlignment-Visualization]]         |
