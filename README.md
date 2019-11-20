@@ -312,7 +312,7 @@ Now run the file from the `Tools` menu:
 
 ## Contributors/acknowledgements
 
-This tutorial is forked from the wiki of [cgpu/rnaseq_tutorial](https://github.com/cgpu/rnaseq_tutorial)
+This tutorial is forked from the wiki of [griffithlab/rnaseq_tutorial](https://github.com/griffithlab/rnaseq_tutorial)
 
 The contributors are listed below:
 Malachi Griffith, Sorana Morrissy, Jim Robinson, Ben Ainscough, Jason Walker, Obi Griffith
