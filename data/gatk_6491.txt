@@ -1,0 +1,4 @@
+# Contains the examples from this tutorial:
+# https://gatkforums.broadinstitute.org/gatk/discussion/6491/howto-visualize-an-alignment-with-igv
+
+s3://lifebit-featured-datasets/workshops/JAX/cruk-igv-intro-data/gatk_6491_howto-visualize-an-alignment-with-igv/
